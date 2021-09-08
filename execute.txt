@@ -1,0 +1,2 @@
+mpicc - o multiThreadSortFinal multiThreadSortFinal.c
+mpirun -np (số thread) ./multiThreadSortFinal
